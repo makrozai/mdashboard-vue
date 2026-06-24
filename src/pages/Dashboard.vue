@@ -11,16 +11,16 @@
       <router-view/>
     </v-flex>
   </v-layout>
-      
+
 </template>
 
 <script>
-import MNavigation from '../components/navigation';
+import MNavigation from '../components/navigation'
 export default {
   name: 'App',
   data () {
     return {
-      
+
     }
   },
   components: {
